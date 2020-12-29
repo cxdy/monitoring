@@ -8,8 +8,8 @@ sites:
     url: https://www.stitchedsound.com
   - name: Stitched Sound Mail
     url: https://mail.stitchedsound.com
-  - name: Home Network
-    url: https://namejeff.nhlfan.net
+  - name: Plex
+    url: https://namejeff.nhlfan.net:32400
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
