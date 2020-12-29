@@ -13,7 +13,8 @@ sites:
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  baseUrl: /repo # where "repo" is your repository name
+  cname: monitor.stitchedsound.com
+  baseUrl: /monitoring # where "repo" is your repository name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Monitoring
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
