@@ -11,10 +11,10 @@ sites:
   - name: Cody Kaczynski
     url: https://codykaczynski.com
   - name: Bar Pazzo Dev
-    url: https://barpazzo.namejeff.net/
+    url: https://barpazzo.namejeff.net
   - name: Pazzo 315 Dev
-    url: https://pazzo315.namejeff.net/
-  - Name: Dev
+    url: https://pazzo315.namejeff.net
+  - name: Dev
     url: https://namejeff.net
 
 status-website:
