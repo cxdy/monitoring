@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 976,
-    "timeDay": 976,
-    "timeWeek": 976,
-    "timeMonth": 976,
-    "timeYear": 976,
+    "time": 811,
+    "timeDay": 811,
+    "timeWeek": 811,
+    "timeMonth": 811,
+    "timeYear": 811,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 656,
-    "timeDay": 656,
-    "timeWeek": 656,
-    "timeMonth": 656,
-    "timeYear": 656,
+    "time": 599,
+    "timeDay": 599,
+    "timeWeek": 599,
+    "timeMonth": 599,
+    "timeYear": 599,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,18 @@
     "icon": "https://favicons.githubusercontent.com/namejeff.nhlfan.net",
     "slug": "home-network",
     "status": "down",
-    "uptime": "61.57%",
-    "uptimeDay": "61.57%",
-    "uptimeWeek": "61.57%",
-    "uptimeMonth": "61.57%",
-    "uptimeYear": "61.57%",
+    "uptime": "2.81%",
+    "uptimeDay": "2.81%",
+    "uptimeWeek": "2.81%",
+    "uptimeMonth": "2.81%",
+    "uptimeYear": "2.81%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2020-12-29": 0
+      "2020-12-29": 18
     }
   }
 ]
