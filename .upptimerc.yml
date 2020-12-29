@@ -8,8 +8,14 @@ sites:
     url: https://www.stitchedsound.com
   - name: Stitched Sound Mail
     url: https://mail.stitchedsound.com
-  - name: Plex
-    url: https://namejeff.nhlfan.net:32400
+  - name: Cody Kaczynski
+    url: https://codykaczynski.com
+  - name: Bar Pazzo Dev
+    url: https://barpazzo.namejeff.net/
+  - name: Pazzo 315 Dev
+    url: https://pazzo315.namejeff.net/
+  - Name: Dev
+    url: https://namejeff.net
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
