@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 788,
-    "timeDay": 788,
-    "timeWeek": 788,
-    "timeMonth": 788,
-    "timeYear": 788,
+    "time": 740,
+    "timeDay": 740,
+    "timeWeek": 740,
+    "timeMonth": 740,
+    "timeYear": 740,
     "dailyMinutesDown": {}
   },
   {
@@ -28,31 +28,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 507,
-    "timeDay": 507,
-    "timeWeek": 507,
-    "timeMonth": 507,
-    "timeYear": 507,
+    "time": 464,
+    "timeDay": 464,
+    "timeWeek": 464,
+    "timeMonth": 464,
+    "timeYear": 464,
     "dailyMinutesDown": {}
   },
   {
-    "name": "Home Network",
-    "url": "https://namejeff.nhlfan.net",
+    "name": "Plex",
+    "url": "https://namejeff.nhlfan.net:32400",
     "icon": "https://favicons.githubusercontent.com/namejeff.nhlfan.net",
-    "slug": "home-network",
+    "slug": "plex",
     "status": "down",
-    "uptime": "20.05%",
-    "uptimeDay": "20.05%",
-    "uptimeWeek": "20.05%",
-    "uptimeMonth": "20.05%",
-    "uptimeYear": "20.05%",
+    "uptime": "6.66%",
+    "uptimeDay": "6.66%",
+    "uptimeWeek": "6.66%",
+    "uptimeMonth": "6.66%",
+    "uptimeYear": "6.66%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2020-12-29": 19
+      "2020-12-29": 0
     }
   }
 ]
