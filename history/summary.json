@@ -41,18 +41,18 @@
     "icon": "https://favicons.githubusercontent.com/codykaczynski.com",
     "slug": "cody-kaczynski",
     "status": "down",
-    "uptime": "30.92%",
+    "uptime": "30.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "30.92%",
+    "uptimeYear": "30.68%",
     "time": 283,
     "timeDay": 120,
     "timeWeek": 140,
     "timeMonth": 152,
     "timeYear": 283,
     "dailyMinutesDown": {
-      "2021-03-17": 6,
+      "2021-03-17": 882,
       "2021-03-16": 1440,
       "2021-03-15": 1440,
       "2021-03-14": 1440,
@@ -133,9 +133,9 @@
     "url": "https://pazzo315.namejeff.net",
     "icon": "https://favicons.githubusercontent.com/pazzo315.namejeff.net",
     "slug": "pazzo-315-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -144,6 +144,8 @@
     "timeWeek": 475,
     "timeMonth": 532,
     "timeYear": 765,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-17": 0
+    }
   }
 ]
