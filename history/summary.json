@@ -4,18 +4,20 @@
     "url": "https://www.stitchedsound.com",
     "icon": "https://favicons.githubusercontent.com/www.stitchedsound.com",
     "slug": "stitched-sound",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 795,
-    "timeDay": 759,
-    "timeWeek": 869,
-    "timeMonth": 948,
-    "timeYear": 795,
-    "dailyMinutesDown": {}
+    "time": 790,
+    "timeDay": 470,
+    "timeWeek": 783,
+    "timeMonth": 924,
+    "timeYear": 790,
+    "dailyMinutesDown": {
+      "2021-04-22": 0
+    }
   },
   {
     "name": "Stitched Sound Mail",
@@ -23,19 +25,17 @@
     "icon": "https://favicons.githubusercontent.com/mail.stitchedsound.com",
     "slug": "stitched-sound-mail",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 473,
     "timeDay": 250,
     "timeWeek": 394,
     "timeMonth": 489,
     "timeYear": 473,
-    "dailyMinutesDown": {
-      "2021-04-22": 15
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Cody Kaczynski",
@@ -44,8 +44,8 @@
     "slug": "cody-kaczynski",
     "status": "up",
     "uptime": "21.01%",
-    "uptimeDay": "1.01%",
-    "uptimeWeek": "0.14%",
+    "uptimeDay": "1.84%",
+    "uptimeWeek": "0.26%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "21.01%",
     "time": 559,
